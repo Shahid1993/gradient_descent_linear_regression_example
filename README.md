@@ -1,6 +1,7 @@
 # gradient_descent_linear_regression_example
 Example to demonstrate how a Linear Regression problem can be solved using Gradient Descent
 
+<img src="https://github.com/Shahid1993/gradient_descent_linear_regression_example/blob/master/gradient_descent_example.gif" width="580">
 
 
 
